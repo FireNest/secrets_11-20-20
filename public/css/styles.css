@@ -1,0 +1,74 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body
+{
+    background: #e8ecef;
+    text-align: center;
+}
+
+input
+{
+
+    display: inline-block;
+    width: 500px;
+    margin: 10px;    
+    align-items: center;
+    position: relative;
+    right: 80px;
+
+
+}
+
+form
+{
+    background: #fff;
+    width: 50%;
+    margin: 0 auto 20px 150px;
+    text-align: left;
+}
+
+h2
+{
+    position: relative;
+    left: -110px;
+
+}
+
+label
+{
+    margin-left: -50px;
+}
+
+button{
+    margin: 10px 0;
+    position: relative;
+    left: -60px;
+}
+
+.container
+{
+    width: 60%;
+    margin: 110px auto;
+    
+
+}
+
+.box
+{
+    width: 50%;
+    margin: 110px auto;
+}
+
+.centered
+{
+    background: #000;
+    color: #fff;
+}
+
+
+
+
